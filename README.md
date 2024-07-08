@@ -1,5 +1,6 @@
 Hello, My Friends  
 Thank you for having interest in this repository ! 
+![Preview Image]!![image](https://github.com/luckyshinystar7/boilerplate-mern-stack/assets/172367046/f5f59d8c-4437-4d73-84bc-2b141bdc1433)
 
 To use this application, 
 
